@@ -79,7 +79,9 @@ The time allotted for this problem is two weeks. Beginners should spend the firs
 
 using namespace std; //i like to use namespace std, it make the code more friendly to my eyes
 
-
+class Dijkstras {
+	
+};
 
      
 
