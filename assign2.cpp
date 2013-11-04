@@ -74,8 +74,10 @@ The time allotted for this problem is two weeks. Beginners should spend the firs
 
 
 #include <stdio.h> //The most standar library.
-#include <iostream> // nessessary for handling IO like 
-#include <vector> //nessessary for handling Vectors
+#include <iostream> // necessary for handling IO like 
+#include <vector> //necessary for handling Vectors
+#include <cmath> //necessary for important math calculations.
+#include <cstdlib> //As i know is necessary for Rand
 
 using namespace std; //i like to use namespace std, it make the code more friendly to my eyes
 
