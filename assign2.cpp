@@ -80,7 +80,7 @@ The time allotted for this problem is two weeks. Beginners should spend the firs
 #include <cstdlib> //As i know is necessary for Rand
 
 using namespace std; //i like to use namespace std, it make the code more friendly to my eyes
-
+/* We will not use this codeblock att this moment
 class Dijkstras {
 	Ax=;
 	Ay=;
@@ -94,8 +94,35 @@ class Dijkstras {
 	
 	
 };
+*/
 
-     
+
+//classes and functions following the instructions
+
+class Graph {
+//V (G): returns the number of vertices in the graph
+function V (G)	{
+	
+};
+
+//E (G): returns the number of edges in the graph
+function E (G)	{
+	
+};
+
+//adjacent (G, x, y): tests whether there is an edge from node x to node y.
+function adjacent (G, x, y){
+	
+};
+
+
+
+
+
+
+
+};
+    
 
 int main()
 {
