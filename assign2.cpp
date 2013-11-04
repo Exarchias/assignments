@@ -1,4 +1,4 @@
-Graph algorithms and graph representation are a critical tool in CS. We want to create a graph as an ADT (Abstract Data Type) using C++ classes. The basic problem will be to write Dijkstra’s algorithm as a class member function (method in OO speak). You should already know Dijkstra’s algorithm for the shortest path problem from prior experience, but it will be reviewed in class. It is the basis for many route calculations and optimizations programs. 
+/* Graph algorithms and graph representation are a critical tool in CS. We want to create a graph as an ADT (Abstract Data Type) using C++ classes. The basic problem will be to write Dijkstra’s algorithm as a class member function (method in OO speak). You should already know Dijkstra’s algorithm for the shortest path problem from prior experience, but it will be reviewed in class. It is the basis for many route calculations and optimizations programs. 
 
 There are 2 basic implementations used for graphs – one is edge lists, and the other is connectivity matrices. You can decide which to use, but comment on your choice. 
 
@@ -14,7 +14,7 @@ Keep in mind: good style – choice of identifiers, short functions, good document
 
 Tips:  Hand-simulate your algorithm on a small graph.
 
-/* Grading:
+ Grading:
 
 Submit the program for peer grading.
 
@@ -80,6 +80,16 @@ The time allotted for this problem is two weeks. Beginners should spend the firs
 using namespace std; //i like to use namespace std, it make the code more friendly to my eyes
 
 class Dijkstras {
+	Ax=;
+	Ay=;
+	Bx=;
+	By=;
+	
+	function dist(pointA, pointB){
+	
+		}
+	}
+	
 	
 };
 
